@@ -1,5 +1,14 @@
 # Obstacle avoidance using AVL tree 
 
+## Team Members
 
-![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S2214914718305130-gr3.jpg)
+### Arif Islam
+### Andrew Kumley
+### Amin Alsultan
+
+
+
+
+
+
 ![alt text](https://static.javatpoint.com/ds/images/insertion-in-avl-tree.png)
