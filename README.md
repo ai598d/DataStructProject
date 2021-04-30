@@ -19,7 +19,26 @@ Currently, the data structure contains a single Tri-Node which is suitable for s
 This class creates a node with two data field `<Value>` and `<Sensor>`. `<Value>` stores int trigger value from sensor(0/1) and `<Sensor>` stores the direction as a string type.
 
 
+### Class AVL_BST
 
+#### IsEmpty()
+
+#### Clear()
+
+#### AVL_Insert()
+
+#### Initialize(int SenvalRoot, string SenDirRoot, int SenvalLC , string SenDirLC, int SenvalRC, string SenDirRC)
+
+             //The purpose of this method is to initialize the data structure with initial sensor values.
+             //This structure is designed as a single tri-nodal structure for a robot with 4 sensors.
+             //Initially 3 sensor values are required.
+
+#### UpdatedSensorAdd()
+
+
+
+
+### Class Sensor
 
 
 
