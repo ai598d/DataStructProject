@@ -27,6 +27,9 @@ This class creates a node with two data field `<Value>` and `<Sensor>`. `<Value>
 
 #### AVL_Insert(int newVal, string sensor)
 
+              // A recursive insert method for general purpose.
+              // We dont need this for This project
+
 #### Initialize(int SenvalRoot, string SenDirRoot, int SenvalLC , string SenDirLC, int SenvalRC, string SenDirRC)
 
              //The purpose of this method is to initialize the data structure with initial sensor values.
@@ -34,6 +37,8 @@ This class creates a node with two data field `<Value>` and `<Sensor>`. `<Value>
              //Initially 3 sensor values are required.
 
 #### UpdatedSensorAdd(int senval, string sensor)
+
+              // Add New Node to the leftchild. 
 
 ### ClockSingleRot()
 
