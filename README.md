@@ -25,7 +25,7 @@ This class creates a node with two data field `<Value>` and `<Sensor>`. `<Value>
 
 #### Clear()
 
-#### AVL_Insert()
+#### AVL_Insert(int newVal, string sensor)
 
 #### Initialize(int SenvalRoot, string SenDirRoot, int SenvalLC , string SenDirLC, int SenvalRC, string SenDirRC)
 
@@ -33,9 +33,15 @@ This class creates a node with two data field `<Value>` and `<Sensor>`. `<Value>
              //This structure is designed as a single tri-nodal structure for a robot with 4 sensors.
              //Initially 3 sensor values are required.
 
-#### UpdatedSensorAdd()
+#### UpdatedSensorAdd(int senval, string sensor)
 
+### ClockSingleRot()
 
+            // CWSingle  clock wise single rotation
+            
+### PrintInOrder()
+      
+             // print in order
 
 
 ### Class Sensor
