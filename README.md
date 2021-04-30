@@ -51,7 +51,7 @@ This class creates a node with two data field `<Value>` and `<Sensor>`. `<Value>
 
 ### Class Sensor
 
- Creates sensor instance with two field values int type '<TriggerVal>' and string type '<Direction>'. '<TriggerVal>' takes input as 0/1 (0 if theres no obstacle and vice versa). '<Direction>' takes input of sensor direction (East,West,North,South)
+ Creates sensor instance with two field values int type `<TriggerVal>` and string type `<Direction>`. `<TriggerVal>` takes input as 0/1 (0 if theres no obstacle and vice versa). `<Direction>` takes input of sensor direction (East,West,North,South)
   
   
 
